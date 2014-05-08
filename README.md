@@ -5,7 +5,7 @@ This repository contains the [source data](../..tree/master/data) and matching [
 
 This meta-analysis suggests that clinical intervention *is* effective.
 
-![alt text](https://raw.github.com/openMetaAnalysis/Colchicine-for-pericarditis/master/forest%20plots/all%20trials.png "Principle results")
+![alt text](https://raw.githubusercontent.com/openMetaAnalysis/Cochicine-for-Pericarditis/master/forest%20plots/all%20trials.png "Principle results")
 
 References:
 ----------------------------------
