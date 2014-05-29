@@ -13,21 +13,20 @@ References:
 ----------------------------------
 
 ### Systematic review(s)
-####Most recent review at time of last revision of this repository
+####Narrative review
 1. Norrid SE, Oliphant CS. Colchicine for the Treatment of Acute and Recurrent Pericarditis. Ann Pharmacother. 2014 May 19. pii: 1060028014535907. [Epub ahead of print] PubMed PMID: [24842856](http://pubmed.gov/24842856)
 
-####Older review
+####Most recent review at time of last revision of this repository
 1. Imazio M, Brucato A, Forno D, Ferro S, Belli R, Trinchero R, Adler Y. Efficacy and safety of colchicine for pericarditis prevention. Systematic review and meta-analysis. Heart. 2012 Jul;98(14):1078-82. doi: 10.1136/heartjnl-2011-301306. Epub 2012 Mar 22. PMID: [22442198](http://pubmed.gov/22442198).
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
-None identified.
-
-#### Trials included in the review above
 1. Imazio M, Belli R, Brucato A, Cemin R, Ferrua S, Beqaraj F, Demarie D, Ferro S, Forno D, Maestroni S, Cumetti D, Varbella F, Trinchero R, Spodick DH, Adler Y. Efficacy and safety of colchicine for treatment of multiple recurrences of
 pericarditis (CORP-2): a multicentre, double-blind, placebo-controlled, randomised trial. Lancet. 2014 Mar 28. PMID: [24694983](http://pubmed.gov/24694983).
 1. Imazio M, Brucato A, Cemin R, Ferrua S, Maggiolini S, Beqaraj F, Demarie D, Forno D, Ferro S, Maestroni S, Belli R, Trinchero R, Spodick DH, Adler Y; ICAP Investigators. A randomized trial of colchicine for acute pericarditis. N Engl J 
 Med. 2013 Oct 17;369(16):1522-8. PMID: [23992557](http://pubmed.gov/23992557).
+
+#### Trials included in the review above
 2. Imazio M, Brucato A, Cemin R, Ferrua S, Belli R, Maestroni S, Trinchero R, Spodick DH, Adler Y; CORP (COlchicine for Recurrent Pericarditis) Investigators.  Colchicine for recurrent pericarditis (CORP): a randomized trial. Ann Intern Med.
 2011 Oct 4;155(7):409-14. PMID: [21873705](http://pubmed.gov/21873705).
 3. Imazio M, Trinchero R, Brucato A, Rovere ME, Gandino A, Cemin R, Ferrua S, Maestroni S, Zingarelli E, Barosi A, Simon C, Sansone F, Patrini D, Vitali E, Ferrazzi P, Spodick DH, Adler Y; COPPS Investigators. COlchicine for the Prevention of the Post-pericardiotomy Syndrome (COPPS): a multicentre, randomized, double-blind, placebo-controlled trial. Eur Heart J. 2010 Nov;31(22):2749-54. PMID: [20805112](http://pubmed.gov/20805112).
