@@ -3,9 +3,11 @@ Colchicine for prevention of pericarditis and the postpericardiotomy syndrome
 
 This repository contains the [source data](../../tree/master/data) and matching [forest plots](../../tree/master/forest%20plots) for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/binary/www/) of this intervention. This repository updates a previously published meta-analysis.(1)
 
+This meta-analysis suggests that the clinical intervention *is* effective.
+
 Details of the studies included are in the [evidence table](../../wiki/Evidence-Table).
 
-This meta-analysis suggests that the clinical intervention *is* effective. As compared to the review by Norrid below, this meta-analysis adds the CORP-2 trial and the trials of post-pericardiotomy patients since the results are very similar.
+As compared to the review by Norrid below, this meta-analysis adds the CORP-2 trial and the trials of post-pericardiotomy patients since the results are very similar.
 
 ![alt text](https://raw.githubusercontent.com/openMetaAnalysis/Cochicine-for-Pericarditis/master/forest%20plots/all%20trials.png "Principle results")
 
