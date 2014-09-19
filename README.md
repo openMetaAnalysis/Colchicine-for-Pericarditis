@@ -9,7 +9,7 @@ Details of the studies included are in the [evidence table](../../wiki/Evidence-
 
 As compared to the review by Norrid below, this meta-analysis adds the CORP-2 trial and the trials of post-pericardiotomy patients since the results are very similar.
 
-![alt text](https://raw.githubusercontent.com/openMetaAnalysis/Cochicine-for-Pericarditis/master/forest%20plots/all%20trials.png "Principle results")
+![alt text](https://raw.githubusercontent.com/openMetaAnalysis/Colchicine-for-Pericarditis/master/forest%20plots/all%20trials.png "Principle results")
 
 References:
 ----------------------------------
