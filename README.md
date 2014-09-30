@@ -24,7 +24,7 @@ References:
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
 1. Imazio M, Brucato A, Ferrazzi P, Pullara A, Adler Y, Barosi A, Caforio AL, Cemin R, Chirillo F, Comoglio C, Cugola D, Cumetti D, Dyrda O, Ferrua S, Finkelstein Y, Flocco R, Gandino A, Hoit B, Innocente F, Maestroni S, Musumeci F, Oh J, Pergolini A, Polizzi V, Ristic A, Simon C, Spodick DH, Tarzia V, Trimboli S, Valenti A, Belli R, Gaita F; for the COPPS-2 Investigators. Colchicine for Prevention of Postpericardiotomy Syndrome and Postoperative Atrial Fibrillation: 
-The COPPS-2 Randomized Clinical Trial. JAMA. 2014. PMID: [25172965](http://pubmed.gov/25172965) 25172965.
+The COPPS-2 Randomized Clinical Trial. JAMA. 2014. PMID: [25172965](http://pubmed.gov/25172965).
 1. Imazio M, Belli R, Brucato A, Cemin R, Ferrua S, Beqaraj F, Demarie D, Ferro S, Forno D, Maestroni S, Cumetti D, Varbella F, Trinchero R, Spodick DH, Adler Y. Efficacy and safety of colchicine for treatment of multiple recurrences of
 pericarditis (CORP-2): a multicentre, double-blind, placebo-controlled, randomised trial. Lancet. 2014 Mar 28. PMID: [24694983](http://pubmed.gov/24694983).
 1. Imazio M, Brucato A, Cemin R, Ferrua S, Maggiolini S, Beqaraj F, Demarie D, Forno D, Ferro S, Maestroni S, Belli R, Trinchero R, Spodick DH, Adler Y; ICAP Investigators. A randomized trial of colchicine for acute pericarditis. N Engl J 
