@@ -23,18 +23,17 @@ References:
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
-1. Imazio M, Brucato A, Ferrazzi P, Pullara A, Adler Y, Barosi A, Caforio AL, Cemin R, Chirillo F, Comoglio C, Cugola D, Cumetti D, Dyrda O, Ferrua S, Finkelstein Y, Flocco R, Gandino A, Hoit B, Innocente F, Maestroni S, Musumeci F, Oh J, Pergolini A, Polizzi V, Ristic A, Simon C, Spodick DH, Tarzia V, Trimboli S, Valenti A, Belli R, Gaita F; for the COPPS-2 Investigators. Colchicine for Prevention of Postpericardiotomy Syndrome and Postoperative Atrial Fibrillation: 
-The COPPS-2 Randomized Clinical Trial. JAMA. 2014. PMID: [25172965](http://pubmed.gov/25172965).
-1. Imazio M, Belli R, Brucato A, Cemin R, Ferrua S, Beqaraj F, Demarie D, Ferro S, Forno D, Maestroni S, Cumetti D, Varbella F, Trinchero R, Spodick DH, Adler Y. Efficacy and safety of colchicine for treatment of multiple recurrences of
-pericarditis (CORP-2): a multicentre, double-blind, placebo-controlled, randomised trial. Lancet. 2014 Mar 28. PMID: [24694983](http://pubmed.gov/24694983).
-1. Imazio M, Brucato A, Cemin R, Ferrua S, Maggiolini S, Beqaraj F, Demarie D, Forno D, Ferro S, Maestroni S, Belli R, Trinchero R, Spodick DH, Adler Y; ICAP Investigators. A randomized trial of colchicine for acute pericarditis. N Engl J 
-Med. 2013 Oct 17;369(16):1522-8. PMID: [23992557](http://pubmed.gov/23992557).
+1. Imazio M, Brucato A, Ferrazzi P, Pullara A, Adler Y, Barosi A, Caforio AL, Cemin R, Chirillo F, Comoglio C, Cugola D, Cumetti D, Dyrda O, Ferrua S, Finkelstein Y, Flocco R, Gandino A, Hoit B, Innocente F, Maestroni S, Musumeci F, Oh J, Pergolini A, Polizzi V, Ristic A, Simon C, Spodick DH, Tarzia V, Trimboli S, Valenti A, Belli R, Gaita F; for the COPPS-2 Investigators. Colchicine for Prevention of Postpericardiotomy Syndrome and Postoperative Atrial Fibrillation: The COPPS-2 Randomized Clinical Trial. JAMA. 2014. PMID: [25172965](http://pubmed.gov/25172965).
+2. Imazio M, Belli R, Brucato A, Cemin R, Ferrua S, Beqaraj F, Demarie D, Ferro S, Forno D, Maestroni S, Cumetti D, Varbella F, Trinchero R, Spodick DH, Adler Y. Efficacy and safety of colchicine for treatment of multiple recurrences of pericarditis (CORP-2): a multicentre, double-blind, placebo-controlled, randomised trial. Lancet. 2014 Mar 28. PMID: [24694983](http://pubmed.gov/24694983).
+3. Imazio M, Brucato A, Cemin R, Ferrua S, Maggiolini S, Beqaraj F, Demarie D, Forno D, Ferro S, Maestroni S, Belli R, Trinchero R, Spodick DH, Adler Y; ICAP Investigators. A randomized trial of colchicine for acute pericarditis. N Engl J Med. 2013 Oct 17;369(16):1522-8. PMID: [23992557](http://pubmed.gov/23992557).
 
-#### Trials included in the review above
-2. Imazio M, Brucato A, Cemin R, Ferrua S, Belli R, Maestroni S, Trinchero R, Spodick DH, Adler Y; CORP (COlchicine for Recurrent Pericarditis) Investigators.  Colchicine for recurrent pericarditis (CORP): a randomized trial. Ann Intern Med.
-2011 Oct 4;155(7):409-14. PMID: [21873705](http://pubmed.gov/21873705).
-3. Imazio M, Trinchero R, Brucato A, Rovere ME, Gandino A, Cemin R, Ferrua S, Maestroni S, Zingarelli E, Barosi A, Simon C, Sansone F, Patrini D, Vitali E, Ferrazzi P, Spodick DH, Adler Y; COPPS Investigators. COlchicine for the Prevention of the Post-pericardiotomy Syndrome (COPPS): a multicentre, randomized, double-blind, placebo-controlled trial. Eur Heart J. 2010 Nov;31(22):2749-54. PMID: [20805112](http://pubmed.gov/20805112).
-4. Imazio M, Bobbio M, Cecchi E, Demarie D, Pomari F, Moratti M, Ghisio A, Belli  R, Trinchero R. Colchicine as first-choice therapy for recurrent pericarditis: results of the CORE (COlchicine for REcurrent pericarditis) trial. Arch Intern Med. 2005 Sep 26;165(17):1987-91.  PMID: [16186468](http://pubmed.gov/16186468).
-5. Finkelstein Y, Shemesh J, Mahlab K, Abramov D, Bar-El Y, Sagie A, Sharoni E, Sahar G, Smolinsky AK, Schechter T, Vidne BA, Adler Y. Colchicine for the prevention of postpericardiotomy syndrome. Herz. 2002 Dec;27(8):791-4.  PMID: [12574898](http://pubmed.gov/12574898).
-6. Nakayama J, Ota H, Katsuyama T, Kanai M, Taki T, Hirabayashi Y, Suzuki Y. Immunohistochemical demonstration of glycoconjugates bearing the type 2 chain-backbone structure in human fetal, normal and neoplastic gastrointestinal tract. Histochemistry. 1992 May;97(4):303-10.  PMID: [1618643](http://pubmed.gov/1618643).
+####Trials excluded - selected list of important trials
+None
+
+####Cited by
+This repository is cited by:
+
+1. WikiDoc contributors. Pericarditis treatment. WikiDoc. Nov 16, 2014. Available at: http://www.wikidoc.org/index.php/Pericarditis_treatment#Colchicine. Accessed November 16, 2014.
+2. Ters P, Badgett RG. A living meta-analysis of colchicine for pericarditis. Ann Pharmacother. 2014 Oct;48(10):1398-9. doi: [10.1177/1060028014544500](http://dx.doi.org/10.1177/1060028014544500). PMID: [25164526](http://pubmed.gov/25164526).
+
 
