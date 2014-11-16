@@ -1,15 +1,13 @@
 Colchicine for prevention of pericarditis and the postpericardiotomy syndrome
 =================================
 
-This repository contains the [source data](../../tree/master/data) and matching [forest plots](../../tree/master/forest%20plots) for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/home/www/) of this intervention. This repository updates a previously published meta-analysis.(1)
+**Clinical summary:** This meta-analysis suggests that the clinical intervention *is* effective. As compared to the review by Norrid below, this meta-analysis adds the CORP-2 trial and the trials of post-pericardiotomy patients since the results are very similar. Published works at PubMed that cite this analysis and may offer more detailed interpretation are cited in the references below.
 
-This meta-analysis suggests that the clinical intervention *is* effective. Published works at PubMed that cite this analysis and may offer more detailed interpretation are cited in the references below.
+**Methods:** This repository contains the [source data](../../tree/master/data) and matching [forest plots](../../tree/master/forest%20plots) for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/home/www/) of this intervention. This repository updates a previously published meta-analysis.(1)
 
-Details of the studies included are in the [evidence table](../../wiki/Evidence-Table).
+**Results:** Details of the studies included are in the [evidence table](../../wiki/Evidence-Table).
 
-As compared to the review by Norrid below, this meta-analysis adds the CORP-2 trial and the trials of post-pericardiotomy patients since the results are very similar.
-
-![alt text](https://raw.githubusercontent.com/openMetaAnalysis/Colchicine-for-Pericarditis/master/forest%20plots/all%20trials.png "Principle results")
+![Image of forest plot of primary outcome](https://raw.githubusercontent.com/openMetaAnalysis/Colchicine-for-Pericarditis/master/forest%20plots/all%20trials.png "Principle results")
 
 References:
 ----------------------------------
