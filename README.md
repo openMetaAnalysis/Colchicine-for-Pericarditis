@@ -1,4 +1,4 @@
-Colchicine for prevention of pericarditis and the postpericardiotomy syndrome
+Colchicine for prevention of pericarditis and the postpericardiotomy syndrome: a living systematic review
 =================================
 
 **Clinical summary:** This meta-analysis suggests that the clinical intervention *is* effective. As compared to the review by Norrid below, this meta-analysis adds the CORP-2 trial and the trials of post-pericardiotomy patients since the results are very similar. Published works at PubMed that cite this analysis and may offer more detailed interpretation are cited in the references below.
