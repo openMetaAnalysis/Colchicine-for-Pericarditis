@@ -5,19 +5,13 @@ Colchicine for prevention of pericarditis and the postpericardiotomy syndrome: a
 
 **Methods overview:** This repository contains the [source data](../../tree/master/data), matching [forest plots](../../tree/master/forest%20plots) and  [GRADE profiles](../../tree/master/GRADE%20profiles) for an [open  MetaAnalysis](https://openMetaAnalysis) of this intervention. This repository updates a previously published meta-analysis.(1) Newer trials included are listed below in the references. Rationale for newer trials excluded may be listed at the end of the references.  See [methods](https://github.com/openMetaAnalysis/_Methods/blob/master/README.md) for details.
 
-**Results:** Details of the studies included are in the [evidence table](../../wiki/Evidence-Table).
+**Results:** Details of the studies included are in the [PICO table](../../wiki/PICO-Table).
 
 ![Image of forest plot of primary outcome](https://raw.githubusercontent.com/openMetaAnalysis/Colchicine-for-Pericarditis/master/forest%20plots/all%20trials.png "Principle results")
 
 References:
 ----------------------------------
-### Published works that cite and may interpret this analysis
-1. Ters P, Badgett RG. A living meta-analysis of colchicine for pericarditis. Ann Pharmacother. 2014 Oct;48(10):1398-9. PMID: [25164526](http://pubmed.gov/25164526).
-
 ### Systematic review(s)
-####Narrative review
-1. Norrid SE, Oliphant CS. Colchicine for the Treatment of Acute and Recurrent Pericarditis. Ann Pharmacother. 2014 May 19. pii: 1060028014535907. [Epub ahead of print] PubMed PMID: [24842856](http://pubmed.gov/24842856)
-
 ####Most recent review at time of last revision of this repository
 1. Imazio M, Brucato A, Forno D, Ferro S, Belli R, Trinchero R, Adler Y. Efficacy and safety of colchicine for pericarditis prevention. Systematic review and meta-analysis. Heart. 2012 Jul;98(14):1078-82. doi: 10.1136/heartjnl-2011-301306. Epub 2012 Mar 22. PMID: [22442198](http://pubmed.gov/22442198).
 
