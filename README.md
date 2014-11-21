@@ -1,7 +1,7 @@
 Colchicine for prevention of pericarditis and the postpericardiotomy syndrome: a living systematic review
 =================================
 
-**Clinical summary:** This meta-analysis suggests that the clinical intervention *is* effective. As compared to the review by Norrid below, this meta-analysis adds the CORP-2 trial and the trials of post-pericardiotomy patients since the results are very similar. Additional interpretations may be in the references in the 'Cited by' section below.
+**Clinical summary:** This meta-analysis suggests that the clinical intervention *is* effective. In patients similar to those studied in the included trials, approximately 10 among 100 benefit from the intervention (see GRADE Profile below). As compared to the review by Norrid below, this meta-analysis adds the CORP-2 trial and the trials of post-pericardiotomy patients since the results are very similar. Additional interpretations may be in the references in the 'Cited by' section below.
 
 **Methods overview:** This repository contains the [source data](../../tree/master/data), matching [forest plots](../../tree/master/forest%20plots) and  [GRADE profiles](../../tree/master/GRADE%20profiles) for an [open  MetaAnalysis](https://openMetaAnalysis) of this intervention. This repository updates a previously published meta-analysis.(1) Newer trials included are listed below in the references. Rationale for newer trials excluded may be listed at the end of the references.  See [methods](https://github.com/openMetaAnalysis/_Methods/blob/master/README.md) for details.
 
