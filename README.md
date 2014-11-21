@@ -9,6 +9,9 @@ Colchicine for prevention of pericarditis and the postpericardiotomy syndrome: a
 
 ![Image of forest plot of primary outcome](https://raw.githubusercontent.com/openMetaAnalysis/Colchicine-for-Pericarditis/master/forest%20plots/all%20trials.png "Principle results")
 
+Below is the GRADE Profile for the quality of the primary outcome.
+![Image of GRADE Profile of primary outcome](https://raw.githubusercontent.com/openMetaAnalysis/Colchicine-for-Pericarditis/master/GRADE%20profiles/Outcome%20-%20Primary.png "Principle results")
+
 References:
 ----------------------------------
 ### Systematic review(s)
