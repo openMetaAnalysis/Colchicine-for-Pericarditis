@@ -1,5 +1,7 @@
-Colchicine for prevention of pericarditis and the postpericardiotomy syndrome: a living systematic review
-=================================
+**If you want to read this meta-analysis:**
+
+* Go to the long url near the top of this page that starts with 'openmetaanalysis.github.io/'
+* Or go to http://openmetaanalysis.github.io/
 
 * Go to the long url near the top of this page that starts with 'openmetaanalysis.github.io/'
 * Or go to http://openmetaanalysis.github.io/
