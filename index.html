@@ -41,7 +41,7 @@
 <p><strong>Clinical summary:</strong> 
 This meta-analysis suggests that the clinical intervention <em>is</em> effective. 
 In patients similar to those in the included trials, approximately 33 among 100 benefit from the intervention (see GRADE Profile below). As compared to the review by Norrid below, this meta-analysis adds the CORP-2 trial and the trials of post-pericardiotomy patients since the results are very similar. 
-The quality of evidence is <em>moderate</em> (<a href="/methods.html">see methods</a>) due to imprecision of results. 
+The quality of evidence is <a href="#" class="hastip" id="grade_quality_definition">moderate</a> due to imprecision of results. 
 Additional interpretations may be in the references in the 'Cited by' section below.</p>
 <!-- **to here** -->
 
@@ -105,9 +105,10 @@ Additional interpretations may be in the references in the 'Cited by' section be
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
 <script>
 //For gh-pages
-//Page history and edit
+//Page history and edit and issues
 var pagename = location.pathname.split('/').slice(-1);
 if (pagename.length < 2){pagename = "index.html"}
+document.write("<div style='text-align:center'><a href='https://github.com/openMetaAnalysis/" + repo_dir + "/issues?q=is%3Aopen+is%3Aissue'>Issues and comments</a></div>")
 document.write("<div style='text-align:center'><a href='https://github.com/openMetaAnalysis/" + repo_dir + "/blob/gh-pages/" + pagename + "'>Edit this page</a> - <a href='https://github.com/openMetaAnalysis/" + repo_dir + "/commits/gh-pages/" + pagename + "'>Page history</a></div>")
 </script>
 
@@ -125,5 +126,6 @@ document.write("<div style='text-align:center'><a href='https://github.com/openM
             pageTracker._trackPageview();
             } catch(err) {}
           </script>
+<div id="tip" style="display:none"></div>
 </body>
 </html>
