@@ -1,4 +1,8 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<included>
 <!-- start of a new study -->
+<study>
 <citation pmid="12574898" year="2002" nct="" journal_abbrev="Herz">Finkelstein</citation>
 <design>Randomized controlled trial</design>
 <patients total='111'>Post postpericardiotomy
@@ -15,6 +19,7 @@
 </outcome>
 </study>
 <!-- start of a new study -->
+<study>
 <citation pmid="16186437" year="2005" nct="" journal_abbrev="Circulation">COPE</citation>
 <design>Randomized controlled trial</design>
 <patients total='120'>First episode of acute pericarditis
@@ -31,6 +36,7 @@
 </outcome>
 </study>
 <!-- start of a new study -->
+<study>
 <citation pmid="16186468" year="2005" nct="" journal_abbrev="Arch Intern Med">CORE</citation>
 <design>Randomized controlled trial</design>
 <patients total='84'>Secondary prevention (after more than 1 episode)
@@ -48,6 +54,7 @@
 </outcome>
 </study>
 <!-- start of a new study -->
+<study>
 <citation pmid="20805112" year="2010" nct="" journal_abbrev="Eur Heart J">COPPS</citation>
 <design>Randomized controlled trial</design>
 <patients total='360'>Postpericardiotomy
@@ -63,6 +70,7 @@
 </outcome>
 </study>
 <!-- start of a new study -->
+<study>
 <citation pmid="21873705" year="2011" nct="" journal_abbrev="Ann Intern Med">CORP</citation>
 <design>Randomized controlled trial</design>
 <patients total='120'>Secondary prevention (after more than 1 episode)
@@ -79,6 +87,7 @@
 </outcome>
 </study>
 <!-- start of a new study -->
+<study>
 <citation pmid="23992557" year="2013" nct="" journal_abbrev="N Engl J Med">ICAP</citation>
 <design>Randomized controlled trial</design>
 <patients total='240'>
@@ -95,6 +104,7 @@
 </outcome>
 </study>
 <!-- start of a new study -->
+<study>
 <citation pmid="24694983" year="2014" nct="" journal_abbrev="Lancet">CORP-2</citation>
 <design>Randomized controlled trial</design>
 <patients total='240'>Secondary prevention (> two episodes)
@@ -111,6 +121,7 @@
 </outcome>
 </study>
 <!-- start of a new study -->
+<study>
 <citation pmid="25172965" year="2014" nct="" journal_abbrev="JAMA">COPPS-2</citation>
 <design>Randomized controlled trial</design>
 <patients total='360'>Postpericardiotomy
@@ -128,3 +139,4 @@
 <bullet type='primary'>Followed for 3 months</bullet>
 </outcome>
 </study>
+</included>
