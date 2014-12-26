@@ -16,8 +16,8 @@
 <citation year="2005" pmid="16186437" nct="" journal_abbrev="Circulation" totalsubjects="120" >COPE</citation>
 <randomization>Unclear risk</randomization>
 <allocation>Unclear risk</allocation>
-<blinding_people>High risk</blinding_people>
-<blinding_assessment>High risk</blinding_assessment>
+<blinding_people title="Open-label">High risk</blinding_people>
+<blinding_assessment title="Open-label">High risk</blinding_assessment>
 <attrition>Low risk</attrition>
 <selective_reporting>Low risk</selective_reporting>
 <other_biases>Low risk</other_biases>
@@ -27,8 +27,8 @@
 <citation year="2005" pmid="16186468" nct="" journal_abbrev="Arch Intern Med" totalsubjects="84" >CORE</citation>
 <randomization>Unclear risk</randomization>
 <allocation>Unclear risk</allocation>
-<blinding_people>High risk</blinding_people>
-<blinding_assessment>High risk</blinding_assessment>
+<blinding_people title="Open-label">High risk</blinding_people>
+<blinding_assessment title="Open-label">High risk</blinding_assessment>
 <attrition>Low risk</attrition>
 <selective_reporting>Low risk</selective_reporting>
 <other_biases>Low risk</other_biases>
