@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<included>
+<!-- start of a new study -->
+<study>
+<citation year="2002" pmid="12574898" nct="" journal_abbrev="Herz" totalsubjects="111" >Finkelstein</citation>
+<randomization>Unclear risk</randomization>
+<allocation>Unclear risk</allocation>
+<blinding_people>Low risk</blinding_people>
+<blinding_assessment>Low risk</blinding_assessment>
+<attrition>High risk</attrition>
+<selective_reporting>Unclear risk</selective_reporting>
+<other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2005" pmid="16186437" nct="" journal_abbrev="Circulation" totalsubjects="120" >COPE</citation>
+<randomization>Unclear risk</randomization>
+<allocation>Unclear risk</allocation>
+<blinding_people>High risk</blinding_people>
+<blinding_assessment>High risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2005" pmid="16186468" nct="" journal_abbrev="Arch Intern Med" totalsubjects="84" >CORE</citation>
+<randomization>Unclear risk</randomization>
+<allocation>Unclear risk</allocation>
+<blinding_people>High risk</blinding_people>
+<blinding_assessment>High risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2010" pmid="20805112" nct="" journal_abbrev="Eur Heart J" totalsubjects="360" >COPPS</citation>
+<randomization>Low risk</randomization>
+<allocation>Low risk</allocation>
+<blinding_people>Low risk</blinding_people>
+<blinding_assessment> risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2011" pmid="21873705" nct="" journal_abbrev="Ann Intern Med" totalsubjects="120" >CORP</citation>
+<randomization>Low risk</randomization>
+<allocation>Low risk</allocation>
+<blinding_people>Low risk</blinding_people>
+<blinding_assessment>Low risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2013" pmid="23992557" nct="" journal_abbrev="N Engl J Med" totalsubjects="240" >ICAP</citation>
+<randomization>Low risk</randomization>
+<allocation>Low risk</allocation>
+<blinding_people>Low risk</blinding_people>
+<blinding_assessment>Low risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2014" pmid="24694983" nct="" journal_abbrev="Lancet" totalsubjects="240" >CORP-2</citation>
+<randomization>Low risk</randomization>
+<allocation>Low risk</allocation>
+<blinding_people>Low risk</blinding_people>
+<blinding_assessment>Low risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Low risk</other_biases>
+</study>
+<!-- start of a new study -->
+<study>
+<citation year="2014" pmid="25172965" nct="" journal_abbrev="JAMA" totalsubjects="360" >COPPS-2</citation>
+<randomization>Low risk</randomization>
+<allocation>Low risk</allocation>
+<blinding_people>Low risk</blinding_people>
+<blinding_assessment> risk</blinding_assessment>
+<attrition>Low risk</attrition>
+<selective_reporting>Low risk</selective_reporting>
+<other_biases>Low risk</other_biases>
+</study>
+<!-- Leave this bottom line -->
+</included>
