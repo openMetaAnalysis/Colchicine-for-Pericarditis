@@ -68,7 +68,7 @@
 </intervention>
 <comparison>Placebo</comparison>
 <outcome>
-<bullet>Postpericardiotomy syndrome</bullet>
+<bullet type='primary'>Postpericardiotomy syndrome</bullet>
 <bullet type='primary'>Followed for 12 months</bullet>
 </outcome>
 </study>
@@ -87,7 +87,7 @@
 <comparison>Placebo
 </comparison>
 <outcome>
-<bullet>Recurrent pericarditis</bullet>
+<bullet type='primary'>Recurrent pericarditis</bullet>
 </outcome>
 </study>
 <!-- start of a new study -->
