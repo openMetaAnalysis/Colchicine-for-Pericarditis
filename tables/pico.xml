@@ -40,8 +40,8 @@
 <study>
 <citation pmid="16186468" year="2005" nct="" journal_abbrev="Arch Intern Med">CORE</citation>
 <design>Randomized controlled trial</design>
-<patients total='84'>first episode of recurrent pericarditis
-<description></description>
+<patients total='84'>
+<description>first recurrence pericarditis</description>
 <bullet>Mean age 54 years</bullet>
 </patients>
 <intervention>Colchicine
