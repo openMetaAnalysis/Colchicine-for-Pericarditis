@@ -4,7 +4,8 @@
 <study>
 <citation pmid="12574898" year="2002" nct="" journal_abbrev="Herz">Finkelstein</citation>
 <design>Randomized controlled trial</design>
-<patients total='111'>Post postpericardiotomy
+<patients total='111'>
+<description>postpericardiotomy</description>
 <bullet>Mean age 62 years</bullet>
 </patients>
 <intervention>Colchicine
@@ -21,7 +22,8 @@
 <study>
 <citation pmid="16186437" year="2005" nct="" journal_abbrev="Circulation">COPE</citation>
 <design>Randomized controlled trial</design>
-<patients total='120'>First episode of acute pericarditis
+<patients total='120'>
+<description>first episode of acute pericarditis</description>
 <bullet>Mean age 56.9 years</bullet>
 </patients>
 <intervention>Colchicine
@@ -38,7 +40,8 @@
 <study>
 <citation pmid="16186468" year="2005" nct="" journal_abbrev="Arch Intern Med">CORE</citation>
 <design>Randomized controlled trial</design>
-<patients total='84'>Secondary prevention (after more than 1 episode)
+<patients total='84'>first episode of recurrent pericarditis
+<description></description>
 <bullet>Mean age 54 years</bullet>
 </patients>
 <intervention>Colchicine
@@ -56,7 +59,8 @@
 <study>
 <citation pmid="20805112" year="2010" nct="" journal_abbrev="Eur Heart J">COPPS</citation>
 <design>Randomized controlled trial</design>
-<patients total='360'>Postpericardiotomy
+<patients total='360'>
+<description>pericardiotomy</description>
 <bullet>Mean age 65.7 years</bullet>
 </patients>
 <intervention>Colchicine
@@ -72,7 +76,8 @@
 <study>
 <citation pmid="21873705" year="2011" nct="" journal_abbrev="Ann Intern Med">CORP</citation>
 <design>Randomized controlled trial</design>
-<patients total='120'>Secondary prevention (after more than 1 episode)
+<patients total='120'>
+<description>first recurrence of pericarditis</description>
 <bullet>Mean age 48 years</bullet>
 </patients>
 <intervention>Colchicine
@@ -90,6 +95,7 @@
 <citation pmid="23992557" year="2013" nct="" journal_abbrev="N Engl J Med">ICAP</citation>
 <design>Randomized controlled trial</design>
 <patients total='240'>
+<description>first episode of pericarditis</description>
 <bullet>Mean age 52.1 years</bullet>
 </patients>
 <intervention>Colchicine
@@ -106,7 +112,8 @@
 <study>
 <citation pmid="24694983" year="2014" nct="" journal_abbrev="Lancet">CORP-2</citation>
 <design>Randomized controlled trial</design>
-<patients total='240'>Secondary prevention (> two episodes)
+<patients total='240'>
+<description>with two or more episodes (seconary prevention)</description>
 <bullet>Mean age 48.7 years</bullet>
 </patients>
 <intervention>Colchicine
@@ -123,7 +130,8 @@
 <study>
 <citation pmid="25172965" year="2014" nct="" journal_abbrev="JAMA">COPPS-2</citation>
 <design>Randomized controlled trial</design>
-<patients total='360'>Postpericardiotomy
+<patients total='360'>
+<description>postpericardiotomy</description>
 <bullet>Mean age 67.5 years</bullet>
 </patients>
 <intervention>Colchicine 
